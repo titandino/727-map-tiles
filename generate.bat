@@ -1,1 +1,1 @@
-python gdal2tiles_parallel.py -p raster -z 3-11 -e WORLD_MAP_0.png public/map/0/ --format=PNG
+python gdal2tiles_parallel.py -p raster -z 3-11 -e WORLD_MAP_0.png public/905/0/ --format=PNG
